@@ -1,0 +1,5 @@
+{
+  "name": "Ostrich Bakery",
+  "description": "A modern bakery management system for Ostrich Bakery, featuring product ordering, custom cake requests, catering, and a powerful admin dashboard.",
+  "requestFramePermissions": []
+}
